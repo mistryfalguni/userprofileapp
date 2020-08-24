@@ -1,0 +1,88 @@
+
+.app {
+  background-color: #ffffff;
+}
+
+.container-fluid {
+  top: -1.960205078125px;
+  left: 0px;
+  width: 100%;
+  height: 590px;
+  background: transparent linear-gradient(205deg, #2c65c8 0%, #702CC8 100%) 0% 0% no-repeat padding-box;
+  background: transparent linear-gradient(205deg, #2C65C8 0%, #702CC8 100%) 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.userList {
+    top: 189px;
+    left: 280px;
+    width: 600px;
+    height: 500px;
+    background: #F6F6F6 0% 0% no-repeat padding-box;
+    border-radius: 34px 34px 0px 0px;
+    opacity: 1;
+    overflow-y: scroll;
+}
+
+.userTitle {
+  font: normal normal 900 28px/37px;
+}
+
+.userImage {
+  border-radius: 25px;
+}
+
+.userName {
+  color: #4a4a4a;
+  text-align: left;
+  font: normal normal normal 24px/32px;
+}
+
+.userList .nav-item {
+  border-bottom: 1px solid #D5D5D5;
+}
+
+.navbar{
+  top: 200px;
+  text-align: left;
+  font: normal normal 900 24px;
+  letter-spacing: 0px;
+  color: #FFFFFF;
+  opacity: 1;
+}
+.profileMenu .nav-link{
+   color: #FFFFFF;
+   padding: 0px;
+}
+
+.profileMenu {
+  border-radius: 34px;
+  background: transparent linear-gradient(195deg, #2C65C8 0%, #702CC8 100%) 0% 0% no-repeat padding-box;
+}
+
+.profileMenu .nav-item {
+  width: 100%;
+  border-bottom: 1px solid #808080;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+}
+
+.profileTitle {
+  font: normal normal 900 28px/37px;
+}
+
+.userProfileImg {
+  border-radius: 50%;
+}
+
+.lightTextColor {
+  color: #9a9a9a
+}
+
+.textColor {
+  color: #545454;
+}
+
+.userDetails {
+  border-bottom: 1px solid #808080;
+}
